@@ -8,7 +8,7 @@ excerpt: >-
   التحتية الحديثة ومستوى المعيشة المرتفع.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image6.jpg
+  url: /images/Panorama-Plus-dot-net-Abu-Dhabi-cleaning.jpg
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''

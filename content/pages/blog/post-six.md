@@ -3,7 +3,9 @@ type: PostLayout
 title: أشهر الخدمات المتعلقة بالمنزل في أبوظبي، الإمارات العربية المتحدة
 colors: colors-a
 date: '2024-06-03'
-excerpt: ''
+excerpt: >-
+  تشتهر أبوظبي، العاصمة النابضة بالحياة لدولة الإمارات العربية المتحدة، ببنيتها
+  التحتية الحديثة ومستوى المعيشة المرتفع.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg

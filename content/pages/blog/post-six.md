@@ -104,6 +104,7 @@ bottomSections:
         textAlign: left
 metaTitle: أشهر الخدمات المتعلقة بالمنزل في أبوظبي، الإمارات العربية المتحدة
 metaDescription: أشهر الخدمات المتعلقة بالمنزل في أبوظبي، الإمارات العربية المتحدة
+socialImage: /images/Panorama-Plus-dot-net-Abu-Dhabi-cleaning.jpg
 ---
 ![](/images/Panorama-Plus-dot-net-Abu-Dhabi-cleaning.jpg)
 

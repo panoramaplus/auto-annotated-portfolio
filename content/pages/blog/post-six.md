@@ -3,7 +3,7 @@ type: PostLayout
 title: أشهر الخدمات المتعلقة بالمنزل في أبوظبي، الإمارات العربية المتحدة
 colors: colors-a
 date: '2024-06-03'
-excerpt: More context that may or may not be helpful
+excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg

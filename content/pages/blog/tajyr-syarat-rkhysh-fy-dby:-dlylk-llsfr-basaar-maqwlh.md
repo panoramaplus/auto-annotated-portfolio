@@ -65,7 +65,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/car-dealership-Depositphotos_89185272_L-e1700052220760-1536x1025.jpg
   altText: Post image
   caption: Caption of the image
   elementId: ''

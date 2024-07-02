@@ -2,9 +2,7 @@
 type: PostLayout
 title: 'تأجير سيارات رخيصة في دبي: دليلك للسفر بأسعار معقولة'
 date: '2024-07-02'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: ''
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
